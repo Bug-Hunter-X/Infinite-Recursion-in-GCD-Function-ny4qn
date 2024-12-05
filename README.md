@@ -1,0 +1,1 @@
+This repository contains a JavaScript function that calculates the greatest common divisor (GCD) of two numbers using Euclid's algorithm. However, the function contains a bug that can cause infinite recursion. The bug is demonstrated in the `bug.js` file, and the solution is provided in `bugSolution.js`.
